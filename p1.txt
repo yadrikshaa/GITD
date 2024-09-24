@@ -1,2 +1,6 @@
 branch
+<<<<<<< HEAD
 trying to add new line 
+=======
+second 
+>>>>>>> user5
